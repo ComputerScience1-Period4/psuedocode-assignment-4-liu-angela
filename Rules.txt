@@ -1,0 +1,20 @@
+randomize cards with shuffling
+there are 2-4 players for a normal 52 card deck
+the highest value is an ace and the lowest is 2; a two cannot beat an ace
+each player is dealt three blind cards facedown, which they do not look at
+each player is then dealt six other cards
+of these six, each player selects three exit cards to place on top of their blind cards
+the players will use these cards after the remainder of the deck has been used up
+players typically choose their best cards to serve as exit cards
+the first card on top of the remainder of the deck is flipped over and serves as the base card
+at this point, game play has began and the players' exit cards are final and cannot be swapped out
+players must play cards of larger value than the base card, disregarding suites
+as players play cards, they must replace them with the card on top of the remainder of the deck
+only one card may be played at a time 
+special cards may be played: 10 is a bomb, 7 means only cards with values from 2-7 can be played, and 3 is a mirror card
+when a bomb is played, all the cards on the table are cleared, including the bomb, not returning them to the deck
+when a mirror is played, it takes on the properties of the card directly beneath it
+if a player cannot beat the card on the table when it is their turn:
+the next person attempts to beat the card
+if no one can beat the card:
+the person who originally played the 
