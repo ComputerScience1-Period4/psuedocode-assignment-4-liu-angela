@@ -6,6 +6,7 @@ each player is then dealt six other cards
 of these six, each player selects three exit cards to place on top of their blind cards
 the players will use these cards after the remainder of the deck has been used up
 players typically choose their best cards to serve as exit cards
+the remainder of the deck is placed face down in the middle of the players
 the first card on top of the remainder of the deck is flipped over and serves as the base card
 at this point, game play has began and the players' exit cards are final and cannot be swapped out
 players must play cards of larger value than the base card, disregarding suites
@@ -17,4 +18,14 @@ when a mirror is played, it takes on the properties of the card directly beneath
 if a player cannot beat the card on the table when it is their turn:
 the next person attempts to beat the card
 if no one can beat the card:
-the person who originally played the 
+the person who originally played the card may now go, and play anything in their hand
+if the deck in the middle has been exhuasted:
+players must finish playing their final hand of cards
+if a player had finished their final hand:
+the player must now take their previously selected exit cards and play those by the normal rules
+if a player plays all of their exit cards:
+the player should select their blind cards one at a time when it is their turn to play
+if their blind card does not beat the card they were trying to beat:
+they must pick up all cards previously played and play those before returning to their blind cards
+players who believe their blind cards will not beat the played card may pass when it is their turn as many times as they wish
+the first player to play all their cards, including blind cards, wins
